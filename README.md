@@ -1,7 +1,7 @@
 # 21' Machine learning and Deap learning Excercise Codes
 ## 1. 21-1_machineLearning
 21-1 machine learning 수업 실습 코드
-*실습 내용
+* 실습 내용
 1. Linear regression/classification
 2. Polynomial regression
 3. Logistic regression
